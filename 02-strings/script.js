@@ -3,8 +3,8 @@
 // Stampa il valore di nome nella console.
 
 
-const Name = 'Erika';
-console.log(Name);
+const username = 'Erika';
+console.log(username);
 
 
 // 2. Tipi primitivi
